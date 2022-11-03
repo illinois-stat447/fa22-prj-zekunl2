@@ -1,4 +1,4 @@
-# fa22-prj-zekunl2
+# fa22-prj-zekunl2-jialong7
 This project is a SARIMA modeling of Gold Prices. 
 
 Since ancient civilizations, from the Egyptians to the Inca, gold has held a special place of actual and symbolic value for humanity. Nowadays, of its relative scarcity and historical importance, gold is considered a store of value, and for some investors, a long-term investment. Therefore, modeling gold prices may offer valuable insights into gold tradings, especially in the days when inflation is at its peak.  
